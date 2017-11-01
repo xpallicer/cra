@@ -6,6 +6,7 @@
 Author: Xavier Pallicer Majó
 Date: September 2017
 
+![CRAM list](list.png)
 
 **Index:**
 
@@ -33,7 +34,6 @@ Date: September 2017
   - Internal operation
   - Admin Interface
   - REST API
-
 
 ## Basics
 
